@@ -20,9 +20,7 @@
   
 <a href="https://www.linkedin.com/in/amarnathas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amarnath" height="30" width="40" /></a>
 
-<a href="https://stackoverflow.com/users/shuhaib t u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shuhaib t u" height="30" width="40" /></a>
-
-<a href="https://stackoverflow.com/users/22123070/amarnath-as" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amarnath" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22123070/amarnath-as" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="amarnath" height="30" width="40" /></a>
 
 <a href="https://www.instagram.com/____a_m__r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amarnath" height="30" width="40" /></a>
 
