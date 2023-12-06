@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Amarnath A S</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shuhaib-t" alt="shuhaib-t" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanath-dev" alt="amarnath" /></a> </p>
 
-- 🌱 I’m currently learning ** react, mongodb **
+- 🌱 I’m currently learning ** react **
 
-- 💬 Ask me about ** javascript, react, nodejs **
+- 💬 Ask me about ** javascript, react, nodejs, mongodb **
 
-- 📫 How to reach me ** amanathas2003@gmail.com **
+- 📫 Reach me through ** amanathas2003@gmail.com **
 
 
 
