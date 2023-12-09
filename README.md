@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shuhaib-t" alt="amarnath" /></a> </p>
 
-- 🌱 I’m currently learning ** react **
+- 🌱 I’m currently learning ** react, node js **
 
 - 💬 Ask me about ** javascript, react, nodejs, mongodb **
 
