@@ -46,6 +46,5 @@ alt="amarnath" height="30" width="40" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"></a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/></a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="50" height="50"/></a>
 </div>
 
