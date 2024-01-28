@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amarnath A S </h1>
 <h3 align="center"> A Passionate Full Stack Developer From India </h3>
 
-- 🌱 I’m currently learning ** react node js**
+- 🌱 I’m currently learning ** react node js redux**
 
 - 💬 Ask me about ** javascript, react, nodejs, mongodb, **
 
