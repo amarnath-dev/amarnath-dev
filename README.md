@@ -5,7 +5,7 @@
 
 - 💬 Ask me about ** javascript, react, nodejs, mongodb, **
 
-- 📫 Reach me through ** amanathas627@gmail.com **
+- 📫 Reach me through amarnathas627@gmail.com
 
 
 
