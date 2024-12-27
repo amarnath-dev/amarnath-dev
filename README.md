@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Amarnath A S </h1>
-<h3 align="center"> A Passionate Full Stack Developer From India </h3>
+<h1 align="center">Hello 👋 </h1>
+<button align="center"> Click here to see nothing </button>
 
-- 📫 Reach me through mail amarnathas627@gmail.com
+- 📫 Drop a mail to: amarnathas627@gmail.com
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials :</h3>
 <p align="left">
 <a href="https://twitter.com/Amar66204187" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
@@ -16,7 +16,7 @@ alt="amarnath" height="30" width="40" /></a>
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amarnath" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Programming Languages and Tools:</h3>
 <div style = "display:flex; gap:10px; flex-wrap:wrap;">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50"  height="50"/></a> 
@@ -38,6 +38,6 @@ alt="amarnath" height="30" width="40" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"></a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/></a>
-<h3>Check Out My Projects Below</h3>
+<h3>Check Out My Projects in Below Section</h3>
 </div>
 
