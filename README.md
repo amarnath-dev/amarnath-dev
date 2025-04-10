@@ -38,6 +38,6 @@ alt="amarnath" height="30" width="40" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"></a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/></a>
-<h3>Check Out My Projects in Below Section</h3>
+<h3>Check out my projects below which I've developed from scratch </h3>
 </div>
 
